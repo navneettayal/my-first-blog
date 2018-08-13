@@ -24,3 +24,4 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
 ]
 hello
+hello2on13August
